@@ -1,0 +1,17 @@
+title = "Shunta Yorimoto"
+baseURL = "https://shuntayorimoto.github.io"
+theme = "researcher"
+
+[menu]
+  [[menu.main]]
+    name = "Japanese"
+    url = "/about"
+    weight = 1
+  [[menu.main]]
+    name = "English"
+    url = "/english"
+    weight = 2
+#  [[menu.main]]
+#    name = "Posts"
+#    url = "/posts"
+#    weight = 3
